@@ -23,3 +23,4 @@ public class Necklace {
     System.out.println(line.toString());
   }
 }
+
