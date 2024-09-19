@@ -5,6 +5,7 @@ public class Diagonal {
         StringBuilder diagonal = new StringBuilder();
         int height = 5;
         int space = 0;
+        
         for (int i = 0; i < height; i++) {
             diagonal.append(" ".repeat(space));
             diagonal.append('*');
